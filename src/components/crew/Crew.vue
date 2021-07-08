@@ -37,134 +37,139 @@ export default {
     return {
       crew: [
         {
-          name: "Szymon Bujanowski",
-          faculty: "WARiE",
-          avatar: "Szymon.jpg"
+          name: "Marcin Sylka",
+          faculty: "WIMiFT",
+          avatar: "question.png"
         },
         {
-          name: "Wojciech Charoński",
-          faculty: "WARiE",
-          avatar: "Wojtek_Ch.jpg"
-        },
-        {
-          name: "Bartosz Cieślewicz",
-          faculty: "WIiT",
-          avatar: "Bartek_C.jpg"
+          name: "Ula Sadowska",
+          faculty: "WILiT",
+          avatar: "question.png"
         },
         {
           name: "Natalia Fedko",
           faculty: "WA",
-          avatar: "Natalka.jpg"
+          avatar: "question.png"
         },
         {
-          name: "Wojciech Gindera",
-          faculty: "WIŚiE",
-          avatar: "Wojtek_G.jpg"
+          name: "Hubert Ziętowski",
+          faculty: "WARiE",
+          avatar: "Hubert.jpg"
         },
         {
-          name: "Patryk Ginter",
-          faculty: "WIMiFT",
+          name: "Laura Strojna",
+          faculty: "WARiE",
+          avatar: "Laura.jpg"
+        },
+        {
+          name: "Szymon Bujanowski",
+          faculty: "WARiE",
           avatar: ""
         },
         {
-          name: "Marta Kocurek",
-          faculty: "WTCh",
-          avatar: "Kocurek.jpg"
+          name: "Witold Rozumek",
+          faculty: "WARiE",
+          avatar: "Wiciu.jpg"
         },
         {
-          name: "Bartosz Kruczyński",
-          faculty: "WILiT",
-          avatar: "Bartek_K1.jpg"
+          name: "Bartosz Cieślewicz",
+          faculty: "WIiT",
+          avatar: "Bartus.jpg"
         },
         {
-          name: "Klaudia Kulińska",
-          faculty: "WIM",
-          avatar: "Klaudia_K.jpg"
-        },
-        {
-          name: "Eliza Kurkowiak",
-          faculty: "WIM",
-          avatar: "Eliza.jpg"
+          name: "Kornelia Kostrzewska",
+          faculty: "WIiT",
+          avatar: "Nela.jpg"
         },
         {
           name: "Martyna Kurz",
           faculty: "WIiT",
-          avatar: "Kurz.jpeg"
+          avatar: "Kurz.jpg"
         },
         {
-          name: "Dagmara Maćkowiak",
-          faculty: "WIZ",
-          avatar: "Dagmara.jpg"
-        },
-        {
-          name: "Marek Mocny",
+          name: "Bartosz Kruczynski",
           faculty: "WILiT",
-          avatar: "Marek.jpg"
+          avatar: "Kruczynski.jpeg"
         },
         {
-          name: "Daniel Mokrzan",
+          name: "Daria Wstawska",
           faculty: "WILiT",
-          avatar: "Daniel_M.jpg"
+          avatar: "Daria.jpg"
         },
         {
-          name: "Oskar Napierała",
-          faculty: "WIM",
-          avatar: "Oskar.jpg"
+          name: "Katarzyna Chmielewska",
+          faculty: "WILiT",
+          avatar: "Kaska.jpg"
         },
         {
-          name: "Marta Orlikowska",
-          faculty: "WIŚiE",
-          avatar: "Marta_O.jpg"
-        },
-        {
-          name: "Mateusz Ostrowski",
-          faculty: "WIiT",
-          avatar: "Mateusz.jpg"
-        },
-        {
-          name: "Grzegorz Otworowski",
-          faculty: "WIiT",
-          avatar: "Grzesiu.jpg"
-        },
-        {
-          name: "Agata Pawlik",
-          faculty: "WTCh",
-          avatar: ""
-        },
-        {
-          name: "Julia Rogacka",
-          faculty: "WA",
-          avatar: "Julka.jpeg"
-        },
-        {
-          name: "Jędrzej Smolarkiewicz",
-          faculty: "WARiE",
-          avatar: "Jedrzej.jpg"
+          name: "Mikołaj Gemzicki",
+          faculty: "WILiT",
+          avatar: "Beton.jpg"
         },
         {
           name: "Aleksandra Stróżyk",
           faculty: "WIM",
-          avatar: "Ola_S.jpeg"
+          avatar: "Olcia.jpg"
         },
         {
-          name: "Barbara Winiarczyk",
+          name: "Magdalena Kubiak",
+          faculty: "WIM",
+          avatar: "Madzia.jpg"
+        },
+        {
+          name: "Magdalena Wojtczak",
+          faculty: "WIM",
+          avatar: "Wojtczak.jpg"
+        },
+        {
+          name: "Martyna Maćkowiak",
+          faculty: "WIM",
+          avatar: "Martini.jpg"
+        },
+        {
+          name: "Paweł Dzięcioł",
+          faculty: "WIM",
+          avatar: "Dzieciol.jpg"
+        },
+        {
+          name: "Patryk Ginter",
           faculty: "WIMiFT",
-          avatar: "Basia.jpg"
+          avatar: "Gynter.jpg"
         },
         {
-          name: "Piotr Woźniak",
-          faculty: "WILiT",
-          avatar: "Piotr.jpg"
+          name: "Wojciech Gindera",
+          faculty: "WIŚiE",
+          avatar: "Gindera.jpg"
         },
         {
-          name: "Karolina Zapadka",
-          faculty: "WILiT",
-          avatar: "Karolina.jpg"
+          name: "Dagmara Maćkowiak",
+          faculty: "WIZ",
+          avatar: "Daga.jpeg"
         },
         {
           name: "Maria Zienkiewicz",
           faculty: "WIZ",
-          avatar: "Maria.jpg"
+          avatar: "Marysia.jpg"
+        },
+        {
+          name: "Karolina Ławniczak",
+          faculty: "WIZ",
+          avatar: "Kala.jpg"
+        },
+        {
+          name: "Marta Kocurek",
+          faculty: "WTCh",
+          avatar: "Kocur.jpg"
+        },
+        {
+          name: "Weronika Frankiewicz",
+          faculty: "WTCh",
+          avatar: "Werka.jpg"
+        },
+        {
+          name: "Wiktoria Stachowicz",
+          faculty: "WTCh",
+          avatar: "Wika.jpg"
         }
       ]
     };
